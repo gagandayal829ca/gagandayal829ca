@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gagandayal829ca
 - 👀 I’m interested in developing Software Applications.
-- 🌱 I’m a Full Stack Developer and learning new languages as I am a quick learner ;)
+- 🌱 I’m a Full Stack Developer and learning new languages everyday.
 - 📫 How to reach me gagandayal829@gmail.com
 
 <!---
